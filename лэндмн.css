@@ -195,3 +195,39 @@ hr{
     display: flex;
     justify-content: space-evenly;
 }
+.tom-tag{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 100px;
+    background-color: #f2f2f2;
+}
+.lo{
+    color: #000;
+}
+.holboo{
+    display: block;
+}
+.text{
+    text-align: center;
+}
+.and{
+    background-color: #f2f2f2;
+}
+.ug2{
+    font-size: 10px;
+    line-height: 20px;
+    letter-spacing: 0.8px;
+    font-weight: 500;
+    color: #293C43;
+}
+p .p{
+    text-align: center ;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    line-height: 35px;
+    letter-spacing: 0.8px;
+    font-weight: 600;
+    color: #293C43;
+}
